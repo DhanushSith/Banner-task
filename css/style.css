@@ -16,6 +16,8 @@ h1 {
 .iii{
 	display:flex;
 	background-image:linear-gradient(#293d60e3,#293d60e3), url("../img/bg.jpg");
+	width:1326px;
+	height:238;
 	background-repeat:repeat-y;
 	background-attachment:;
 	text-align:center;
